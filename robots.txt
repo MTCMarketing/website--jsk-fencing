@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /logout
+Disallow: /dashboard
+Disallow: /forgot-password
+Disallow: /test/
+Disallow: /404
+Sitemap: https://www.jskfencing.com/sitemap-index.xml
+Host: https://www.jskfencing.com
